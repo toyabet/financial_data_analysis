@@ -1,0 +1,7 @@
+dist/
+.jupyterlite.doit.db*
+.jupyterlite_cache/
+.cache/
+.venv/
+__pycache__/
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "金融データ分析",
+    "contentsStorageName": "financial_data_analysis-contents",
+    "settingsStorageName": "financial_data_analysis-settings",
+    "workspacesStorageName": "financial_data_analysis-workspaces"
+  }
+}
