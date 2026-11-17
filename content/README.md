@@ -12,3 +12,4 @@
 - [第6回 収益率と変動の大きさ](https://toyabet.github.io/financial_data_analysis/lab/index.html?path=session6.ipynb)
 - [第7回 AR(1) モデルによる予想](https://toyabet.github.io/financial_data_analysis/lab/index.html?path=session7.ipynb)
 - [第8回 単位根とランダムウォーク](https://toyabet.github.io/financial_data_analysis/lab/index.html?path=session8.ipynb)
+- [第9回 トレンドと移動平均](https://toyabet.github.io/financial_data_analysis/lab/index.html?path=session9.ipynb)
